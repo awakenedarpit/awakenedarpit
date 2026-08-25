@@ -1,0 +1,33 @@
+name: Generate dot-matrix portrait
+
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - 'scripts/dotify.py'
+      - '.github/workflows/portrait.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  portrait:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Install Pillow
+        run: python -m pip install pillow
+      - name: Download profile photo
+        run: curl -L --fail https://github.com/awakenedarpit.png -o /tmp/me.png
+      - name: Generate portrait
+        run: |
+          python scripts/dotify.py /tmp/me.png -o assets/portrait \
+            --cols 100 --equalize --detail 0.5 --color \
+            --reveal --reveal-time 2.5 --reveal-fade 0.45 --circle
+      - name: Commit generated portrait
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add assets/portrait.svg
+          git diff --cached --quiet || git commit -m 'chore: regenerate dot-matrix portrait'
+          git push
