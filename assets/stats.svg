@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 190" role="img" aria-labelledby="title desc">
+<title id="title">GitHub statistics for Arpit Raj</title><desc id="desc">A dark green profile card showing a builder-focused GitHub profile.</desc>
+<rect width="520" height="190" rx="12" fill="#0d1117" stroke="#30363d"/>
+<text x="28" y="38" fill="#39d353" font-family="Arial,sans-serif" font-size="20" font-weight="700">GitHub statistics</text>
+<text x="28" y="72" fill="#8b949e" font-family="Arial,sans-serif" font-size="14">Arpit Raj · awakenedarpit</text>
+<line x1="28" y1="91" x2="492" y2="91" stroke="#30363d"/>
+<text x="28" y="126" fill="#f0f6fc" font-family="Arial,sans-serif" font-size="25" font-weight="700">648</text>
+<text x="28" y="151" fill="#8b949e" font-family="Arial,sans-serif" font-size="13">contributions this year</text>
+<text x="210" y="126" fill="#f0f6fc" font-family="Arial,sans-serif" font-size="25" font-weight="700">9</text>
+<text x="210" y="151" fill="#8b949e" font-family="Arial,sans-serif" font-size="13">public repositories</text>
+<text x="378" y="126" fill="#f0f6fc" font-family="Arial,sans-serif" font-size="25" font-weight="700">6</text>
+<text x="378" y="151" fill="#8b949e" font-family="Arial,sans-serif" font-size="13">stars received</text>
+<circle cx="462" cy="38" r="7" fill="#39d353"/><circle cx="480" cy="38" r="7" fill="#238636"/>
+</svg>

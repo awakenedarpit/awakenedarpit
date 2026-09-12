@@ -81,12 +81,12 @@ An experiment-driven repository for building, learning, and testing new concepts
 ## `~/` activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=awakenedarpit&theme=github-compact&hide_border=true&area=true&color=39D353&line=39D353&point=39D353" width="95%" alt="Contribution activity graph">
+  <img src="assets/activity.svg" width="95%" alt="Contribution activity graph">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=awakenedarpit&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=transparent&title_color=39D353&icon_color=39D353&text_color=8b949e" height="165" alt="GitHub statistics">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=awakenedarpit&layout=compact&hide_border=true&theme=transparent&title_color=39D353&text_color=8b949e" height="165" alt="Most used languages">
+  <img src="assets/stats.svg" width="58%" alt="GitHub statistics">
+  <img src="assets/languages.svg" width="40%" alt="Most used languages">
 </p>
 
 ---
