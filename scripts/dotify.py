@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Create a Gargi-guide-style dot-matrix portrait SVG."""
+"""Create a dot-matrix portrait SVG."""
 import argparse
 from pathlib import Path
 from PIL import Image, ImageEnhance, ImageFilter, ImageOps
