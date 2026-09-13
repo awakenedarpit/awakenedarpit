@@ -96,3 +96,11 @@ An experiment-driven repository for building, learning, and testing new concepts
 </p>
 
 <!-- The portrait is regenerated from the public GitHub avatar by .github/workflows/portrait.yml. -->
+
+
+<!-- awakenedarpit-credits-contact -->
+## Contact & Credits
+
+**Arpit Raj** ([@awakenedarpit](https://github.com/awakenedarpit)) is the creator and maintainer of this profile and its showcased projects.
+
+For questions, ideas, or collaboration, connect through [GitHub](https://github.com/awakenedarpit) or browse the [public repositories](https://github.com/awakenedarpit?tab=repositories).
