@@ -38,11 +38,11 @@ Hi, I'm **Arpit Raj** — a **B.Tech AIML student** who likes turning ideas into
 <tr>
 <td width="50%" valign="top">
 
-### [Elvyn](https://github.com/awakenedarpit/Elvyn)
+### [Final Birthday Surprise](https://github.com/awakenedarpit/Final-Birthday-Surprise)
 
-A connected student workspace for tasks, projects, goals, notes, resources, study planning, and focus sessions.
+An interactive birthday microsite with animated story slides, personalized wishes, memories, music, gifts, letters, and a final celebration.
 
-`Productivity` · `Student tools` · `Scalable foundation`
+`Creative web experience` · `Vanilla HTML/CSS/JavaScript` · `Responsive`
 
 </td>
 <td width="50%" valign="top">
