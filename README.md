@@ -104,3 +104,10 @@ An experiment-driven repository for building, learning, and testing new concepts
 **Arpit Raj** ([@awakenedarpit](https://github.com/awakenedarpit)) is the creator and maintainer of this profile and its showcased projects.
 
 For questions, ideas, or collaboration, connect through [GitHub](https://github.com/awakenedarpit) or browse the [public repositories](https://github.com/awakenedarpit?tab=repositories).
+
+<!-- awakenedarpit-social-contact -->
+### Connect with Arpit
+
+- Instagram: [@awakenedarpit](https://www.instagram.com/awakenedarpit/)
+- LinkedIn: [Arpit Raj](https://www.linkedin.com/in/awakenedarpit/)
+- Email: [awakenedarpit@gmail.com](mailto:awakenedarpit@gmail.com)
